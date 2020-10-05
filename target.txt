@@ -1,0 +1,148 @@
+1 Red -> 192.0.0.0/6
+Rango:
+Primera IP -> 192.0.0.1 -  Ultima IP -> 195.255.255.254
+Broadcast -> 195.255.255.255
+Rango:
+Primera IP -> 196.0.0.1 -  Ultima IP -> 199.255.255.254
+Broadcast -> 199.255.255.255
+
+2 Red -> 200.0.0.0/7
+Rango:
+Primera IP -> 200.0.0.1 -  Ultima IP -> 201.255.255.254
+Broadcast -> 201.255.255.255
+Rango:
+Primera IP -> 202.0.0.1 -  Ultima IP -> 203.255.255.254
+Broadcast -> 203.255.255.255
+
+3 Red -> 204.0.0.0/7
+Rango:
+Primera IP -> 204.0.0.1 -  Ultima IP -> 205.255.255.254
+Broadcast -> 205.255.255.255
+
+4 Red -> 206.0.0.0/10
+Rango:
+Primera IP -> 206.0.0.1 -  Ultima IP -> 206.63.255.254
+Broadcast -> 206.63.255.255
+Rango:
+Primera IP -> 206.64.0.1 -  Ultima IP -> 206.127.255.254
+Broadcast -> 206.127.255.255
+Rango:
+Primera IP -> 206.128.0.1 -  Ultima IP -> 206.191.255.254
+Broadcast -> 206.191.255.255
+
+5 Red -> 206.192.0.0/13
+Rango:
+Primera IP -> 206.192.0.1 -  Ultima IP -> 206.199.255.254
+Broadcast -> 206.199.255.255
+
+6 Red -> 206.200.0.0/18
+Rango:
+Primera IP -> 206.200.0.1 -  Ultima IP -> 206.200.63.254
+Broadcast -> 206.200.63.255
+Rango:
+Primera IP -> 206.200.64.1 -  Ultima IP -> 206.200.127.254
+Broadcast -> 206.200.127.255
+Rango:
+Primera IP -> 206.200.128.1 -  Ultima IP -> 206.200.191.254
+Broadcast -> 206.200.191.255
+
+7 Red -> 206.200.192.0/19
+Rango:
+Primera IP -> 206.200.192.1 -  Ultima IP -> 206.200.223.254
+Broadcast -> 206.200.223.255
+
+8 Red -> 206.200.224.0/20
+Rango:
+Primera IP -> 206.200.224.1 -  Ultima IP -> 206.200.239.254
+Broadcast -> 206.200.239.255
+Rango:
+Primera IP -> 206.200.240.1 -  Ultima IP -> 206.200.255.254
+Broadcast -> 206.200.255.255
+
+9 Red -> 206.201.0.0/24
+Rango:
+Primera IP -> 206.201.0.1 -  Ultima IP -> 206.201.0.254
+Broadcast -> 206.201.0.255
+Rango:
+Primera IP -> 206.201.1.1 -  Ultima IP -> 206.201.1.254
+Broadcast -> 206.201.1.255
+
+10 Red -> 206.201.2.0/25
+Rango:
+Primera IP -> 206.201.2.1 -  Ultima IP -> 206.201.2.126
+Broadcast -> 206.201.2.127
+Rango:
+Primera IP -> 206.201.2.129 -  Ultima IP -> 206.201.2.254
+Broadcast -> 206.201.2.255
+Rango:
+Primera IP -> 206.201.3.1 -  Ultima IP -> 206.201.3.126
+Broadcast -> 206.201.3.127
+Rango:
+Primera IP -> 206.201.3.129 -  Ultima IP -> 206.201.3.254
+Broadcast -> 206.201.3.255
+
+11 Red -> 206.201.4.0/26
+Rango:
+Primera IP -> 206.201.4.1 -  Ultima IP -> 206.201.4.62
+Broadcast -> 206.201.4.63
+Rango:
+Primera IP -> 206.201.4.65 -  Ultima IP -> 206.201.4.126
+Broadcast -> 206.201.4.127
+Rango:
+Primera IP -> 206.201.4.129 -  Ultima IP -> 206.201.4.190
+Broadcast -> 206.201.4.191
+
+12 Red -> 206.201.4.192/27
+Rango:
+Primera IP -> 206.201.4.193 -  Ultima IP -> 206.201.4.222
+Broadcast -> 206.201.4.223
+Rango:
+Primera IP -> 206.201.4.225 -  Ultima IP -> 206.201.4.254
+Broadcast -> 206.201.4.255
+
+13 Red -> 206.201.5.0/29
+Rango:
+Primera IP -> 206.201.5.1 -  Ultima IP -> 206.201.5.6
+Broadcast -> 206.201.5.7
+
+14 Red -> 206.201.5.8/30
+Rango:
+Primera IP -> 206.201.5.9 -  Ultima IP -> 206.201.5.10
+Broadcast -> 206.201.5.11
+Rango:
+Primera IP -> 206.201.5.13 -  Ultima IP -> 206.201.5.14
+Broadcast -> 206.201.5.15
+Rango:
+Primera IP -> 206.201.5.17 -  Ultima IP -> 206.201.5.18
+Broadcast -> 206.201.5.19
+Rango:
+Primera IP -> 206.201.5.21 -  Ultima IP -> 206.201.5.22
+Broadcast -> 206.201.5.23
+Rango:
+Primera IP -> 206.201.5.25 -  Ultima IP -> 206.201.5.26
+Broadcast -> 206.201.5.27
+Rango:
+Primera IP -> 206.201.5.29 -  Ultima IP -> 206.201.5.30
+Broadcast -> 206.201.5.31
+Rango:
+Primera IP -> 206.201.5.33 -  Ultima IP -> 206.201.5.34
+Broadcast -> 206.201.5.35
+Rango:
+Primera IP -> 206.201.5.37 -  Ultima IP -> 206.201.5.38
+Broadcast -> 206.201.5.39
+Rango:
+Primera IP -> 206.201.5.41 -  Ultima IP -> 206.201.5.42
+Broadcast -> 206.201.5.43
+Rango:
+Primera IP -> 206.201.5.45 -  Ultima IP -> 206.201.5.46
+Broadcast -> 206.201.5.47
+Rango:
+Primera IP -> 206.201.5.49 -  Ultima IP -> 206.201.5.50
+Broadcast -> 206.201.5.51
+Rango:
+Primera IP -> 206.201.5.53 -  Ultima IP -> 206.201.5.54
+Broadcast -> 206.201.5.55
+Rango:
+Primera IP -> 206.201.5.57 -  Ultima IP -> 206.201.5.58
+Broadcast -> 206.201.5.59
+

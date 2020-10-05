@@ -1,0 +1,15 @@
+3 redes de 36 hosts
+1 red de 27465947 hosts
+4 redes de 89 hosts
+2 redes de 33333333 hosts
+2 redes de 41424743 hosts
+1 red de 384374 hosts
+3 redes de 8191 host
+3 redes de 2826344 hosts
+2 redes de 4046 hosts
+1 red de 6000 hosts
+2 redes de 129 host
+2 redes de 29 hosts
+1 red de 4 Host
+13 redes de 2 hosts
+
