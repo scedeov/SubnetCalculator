@@ -1,148 +1,126 @@
-1 Red -> 192.0.0.0/6
+6 redes de 8373 hosts
+1 Red -> 10.0.0.0/18 Mascara -> 255.255.192.0
 Rango:
-Primera IP -> 192.0.0.1 -  Ultima IP -> 195.255.255.254
-Broadcast -> 195.255.255.255
+Primera IP -> 10.0.0.1 -  Ultima IP -> 10.0.63.254
+Broadcast -> 10.0.63.255
+2 Red -> 10.0.64.0/18 Mascara -> 255.255.192.0
 Rango:
-Primera IP -> 196.0.0.1 -  Ultima IP -> 199.255.255.254
-Broadcast -> 199.255.255.255
+Primera IP -> 10.0.64.1 -  Ultima IP -> 10.0.127.254
+Broadcast -> 10.0.127.255
+3 Red -> 10.0.128.0/18 Mascara -> 255.255.192.0
+Rango:
+Primera IP -> 10.0.128.1 -  Ultima IP -> 10.0.191.254
+Broadcast -> 10.0.191.255
+4 Red -> 10.0.192.0/18 Mascara -> 255.255.192.0
+Rango:
+Primera IP -> 10.0.192.1 -  Ultima IP -> 10.0.255.254
+Broadcast -> 10.0.255.255
+5 Red -> 10.1.0.0/18 Mascara -> 255.255.192.0
+Rango:
+Primera IP -> 10.1.0.1 -  Ultima IP -> 10.1.63.254
+Broadcast -> 10.1.63.255
+6 Red -> 10.1.64.0/18 Mascara -> 255.255.192.0
+Rango:
+Primera IP -> 10.1.64.1 -  Ultima IP -> 10.1.127.254
+Broadcast -> 10.1.127.255
 
-2 Red -> 200.0.0.0/7
+3 redes de 999 hosts
+1 Red -> 10.1.128.0/22 Mascara -> 255.255.252.0
 Rango:
-Primera IP -> 200.0.0.1 -  Ultima IP -> 201.255.255.254
-Broadcast -> 201.255.255.255
+Primera IP -> 10.1.128.1 -  Ultima IP -> 10.1.131.254
+Broadcast -> 10.1.131.255
+2 Red -> 10.1.132.0/22 Mascara -> 255.255.252.0
 Rango:
-Primera IP -> 202.0.0.1 -  Ultima IP -> 203.255.255.254
-Broadcast -> 203.255.255.255
+Primera IP -> 10.1.132.1 -  Ultima IP -> 10.1.135.254
+Broadcast -> 10.1.135.255
+3 Red -> 10.1.136.0/22 Mascara -> 255.255.252.0
+Rango:
+Primera IP -> 10.1.136.1 -  Ultima IP -> 10.1.139.254
+Broadcast -> 10.1.139.255
 
-3 Red -> 204.0.0.0/7
+2 redes de 333 hosts
+1 Red -> 10.1.140.0/23 Mascara -> 255.255.254.0
 Rango:
-Primera IP -> 204.0.0.1 -  Ultima IP -> 205.255.255.254
-Broadcast -> 205.255.255.255
+Primera IP -> 10.1.140.1 -  Ultima IP -> 10.1.141.254
+Broadcast -> 10.1.141.255
+2 Red -> 10.1.142.0/23 Mascara -> 255.255.254.0
+Rango:
+Primera IP -> 10.1.142.1 -  Ultima IP -> 10.1.143.254
+Broadcast -> 10.1.143.255
 
-4 Red -> 206.0.0.0/10
+4 redes de 256 hosts
+1 Red -> 10.1.144.0/23 Mascara -> 255.255.254.0
 Rango:
-Primera IP -> 206.0.0.1 -  Ultima IP -> 206.63.255.254
-Broadcast -> 206.63.255.255
+Primera IP -> 10.1.144.1 -  Ultima IP -> 10.1.145.254
+Broadcast -> 10.1.145.255
+2 Red -> 10.1.146.0/23 Mascara -> 255.255.254.0
 Rango:
-Primera IP -> 206.64.0.1 -  Ultima IP -> 206.127.255.254
-Broadcast -> 206.127.255.255
+Primera IP -> 10.1.146.1 -  Ultima IP -> 10.1.147.254
+Broadcast -> 10.1.147.255
+3 Red -> 10.1.148.0/23 Mascara -> 255.255.254.0
 Rango:
-Primera IP -> 206.128.0.1 -  Ultima IP -> 206.191.255.254
-Broadcast -> 206.191.255.255
+Primera IP -> 10.1.148.1 -  Ultima IP -> 10.1.149.254
+Broadcast -> 10.1.149.255
+4 Red -> 10.1.150.0/23 Mascara -> 255.255.254.0
+Rango:
+Primera IP -> 10.1.150.1 -  Ultima IP -> 10.1.151.254
+Broadcast -> 10.1.151.255
 
-5 Red -> 206.192.0.0/13
+8 redes de 74 hosts
+1 Red -> 10.1.152.0/25 Mascara -> 255.255.255.128
 Rango:
-Primera IP -> 206.192.0.1 -  Ultima IP -> 206.199.255.254
-Broadcast -> 206.199.255.255
+Primera IP -> 10.1.152.1 -  Ultima IP -> 10.1.152.126
+Broadcast -> 10.1.152.127
+2 Red -> 10.1.152.128/25 Mascara -> 255.255.255.128
+Rango:
+Primera IP -> 10.1.152.129 -  Ultima IP -> 10.1.152.254
+Broadcast -> 10.1.152.255
+3 Red -> 10.1.153.0/25 Mascara -> 255.255.255.128
+Rango:
+Primera IP -> 10.1.153.1 -  Ultima IP -> 10.1.153.126
+Broadcast -> 10.1.153.127
+4 Red -> 10.1.153.128/25 Mascara -> 255.255.255.128
+Rango:
+Primera IP -> 10.1.153.129 -  Ultima IP -> 10.1.153.254
+Broadcast -> 10.1.153.255
+5 Red -> 10.1.154.0/25 Mascara -> 255.255.255.128
+Rango:
+Primera IP -> 10.1.154.1 -  Ultima IP -> 10.1.154.126
+Broadcast -> 10.1.154.127
+6 Red -> 10.1.154.128/25 Mascara -> 255.255.255.128
+Rango:
+Primera IP -> 10.1.154.129 -  Ultima IP -> 10.1.154.254
+Broadcast -> 10.1.154.255
+7 Red -> 10.1.155.0/25 Mascara -> 255.255.255.128
+Rango:
+Primera IP -> 10.1.155.1 -  Ultima IP -> 10.1.155.126
+Broadcast -> 10.1.155.127
+8 Red -> 10.1.155.128/25 Mascara -> 255.255.255.128
+Rango:
+Primera IP -> 10.1.155.129 -  Ultima IP -> 10.1.155.254
+Broadcast -> 10.1.155.255
 
-6 Red -> 206.200.0.0/18
+1 redes de 35 hosts
+1 Red -> 10.1.156.0/26 Mascara -> 255.255.255.192
 Rango:
-Primera IP -> 206.200.0.1 -  Ultima IP -> 206.200.63.254
-Broadcast -> 206.200.63.255
-Rango:
-Primera IP -> 206.200.64.1 -  Ultima IP -> 206.200.127.254
-Broadcast -> 206.200.127.255
-Rango:
-Primera IP -> 206.200.128.1 -  Ultima IP -> 206.200.191.254
-Broadcast -> 206.200.191.255
+Primera IP -> 10.1.156.1 -  Ultima IP -> 10.1.156.62
+Broadcast -> 10.1.156.63
 
-7 Red -> 206.200.192.0/19
+4 redes de 3 hosts
+1 Red -> 10.1.156.64/29 Mascara -> 255.255.255.248
 Rango:
-Primera IP -> 206.200.192.1 -  Ultima IP -> 206.200.223.254
-Broadcast -> 206.200.223.255
-
-8 Red -> 206.200.224.0/20
+Primera IP -> 10.1.156.65 -  Ultima IP -> 10.1.156.70
+Broadcast -> 10.1.156.71
+2 Red -> 10.1.156.72/29 Mascara -> 255.255.255.248
 Rango:
-Primera IP -> 206.200.224.1 -  Ultima IP -> 206.200.239.254
-Broadcast -> 206.200.239.255
+Primera IP -> 10.1.156.73 -  Ultima IP -> 10.1.156.78
+Broadcast -> 10.1.156.79
+3 Red -> 10.1.156.80/29 Mascara -> 255.255.255.248
 Rango:
-Primera IP -> 206.200.240.1 -  Ultima IP -> 206.200.255.254
-Broadcast -> 206.200.255.255
-
-9 Red -> 206.201.0.0/24
+Primera IP -> 10.1.156.81 -  Ultima IP -> 10.1.156.86
+Broadcast -> 10.1.156.87
+4 Red -> 10.1.156.88/29 Mascara -> 255.255.255.248
 Rango:
-Primera IP -> 206.201.0.1 -  Ultima IP -> 206.201.0.254
-Broadcast -> 206.201.0.255
-Rango:
-Primera IP -> 206.201.1.1 -  Ultima IP -> 206.201.1.254
-Broadcast -> 206.201.1.255
-
-10 Red -> 206.201.2.0/25
-Rango:
-Primera IP -> 206.201.2.1 -  Ultima IP -> 206.201.2.126
-Broadcast -> 206.201.2.127
-Rango:
-Primera IP -> 206.201.2.129 -  Ultima IP -> 206.201.2.254
-Broadcast -> 206.201.2.255
-Rango:
-Primera IP -> 206.201.3.1 -  Ultima IP -> 206.201.3.126
-Broadcast -> 206.201.3.127
-Rango:
-Primera IP -> 206.201.3.129 -  Ultima IP -> 206.201.3.254
-Broadcast -> 206.201.3.255
-
-11 Red -> 206.201.4.0/26
-Rango:
-Primera IP -> 206.201.4.1 -  Ultima IP -> 206.201.4.62
-Broadcast -> 206.201.4.63
-Rango:
-Primera IP -> 206.201.4.65 -  Ultima IP -> 206.201.4.126
-Broadcast -> 206.201.4.127
-Rango:
-Primera IP -> 206.201.4.129 -  Ultima IP -> 206.201.4.190
-Broadcast -> 206.201.4.191
-
-12 Red -> 206.201.4.192/27
-Rango:
-Primera IP -> 206.201.4.193 -  Ultima IP -> 206.201.4.222
-Broadcast -> 206.201.4.223
-Rango:
-Primera IP -> 206.201.4.225 -  Ultima IP -> 206.201.4.254
-Broadcast -> 206.201.4.255
-
-13 Red -> 206.201.5.0/29
-Rango:
-Primera IP -> 206.201.5.1 -  Ultima IP -> 206.201.5.6
-Broadcast -> 206.201.5.7
-
-14 Red -> 206.201.5.8/30
-Rango:
-Primera IP -> 206.201.5.9 -  Ultima IP -> 206.201.5.10
-Broadcast -> 206.201.5.11
-Rango:
-Primera IP -> 206.201.5.13 -  Ultima IP -> 206.201.5.14
-Broadcast -> 206.201.5.15
-Rango:
-Primera IP -> 206.201.5.17 -  Ultima IP -> 206.201.5.18
-Broadcast -> 206.201.5.19
-Rango:
-Primera IP -> 206.201.5.21 -  Ultima IP -> 206.201.5.22
-Broadcast -> 206.201.5.23
-Rango:
-Primera IP -> 206.201.5.25 -  Ultima IP -> 206.201.5.26
-Broadcast -> 206.201.5.27
-Rango:
-Primera IP -> 206.201.5.29 -  Ultima IP -> 206.201.5.30
-Broadcast -> 206.201.5.31
-Rango:
-Primera IP -> 206.201.5.33 -  Ultima IP -> 206.201.5.34
-Broadcast -> 206.201.5.35
-Rango:
-Primera IP -> 206.201.5.37 -  Ultima IP -> 206.201.5.38
-Broadcast -> 206.201.5.39
-Rango:
-Primera IP -> 206.201.5.41 -  Ultima IP -> 206.201.5.42
-Broadcast -> 206.201.5.43
-Rango:
-Primera IP -> 206.201.5.45 -  Ultima IP -> 206.201.5.46
-Broadcast -> 206.201.5.47
-Rango:
-Primera IP -> 206.201.5.49 -  Ultima IP -> 206.201.5.50
-Broadcast -> 206.201.5.51
-Rango:
-Primera IP -> 206.201.5.53 -  Ultima IP -> 206.201.5.54
-Broadcast -> 206.201.5.55
-Rango:
-Primera IP -> 206.201.5.57 -  Ultima IP -> 206.201.5.58
-Broadcast -> 206.201.5.59
+Primera IP -> 10.1.156.89 -  Ultima IP -> 10.1.156.94
+Broadcast -> 10.1.156.95
 
