@@ -1,6 +1,6 @@
 import ips
 
-# se encarga de ordenar de mayor a menor la cantidad de hosts leyendo un archivo
+# ordena source.txt de mayor a menor tomando en cuenta los hosts
 
 
 def ordena(source_location):
